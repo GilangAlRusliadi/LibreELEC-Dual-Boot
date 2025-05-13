@@ -74,8 +74,8 @@ Explanation:
 ## Additional Notes
 
 - Always back up your data before modifying partitions.
-- LibreELEC does not come with a GUI installer, so manual configuration is required.
 - If boot issues occur, double-check UUIDs and partition labels.
+- The official LibreELEC installer will format an entire disk, so you cannot choose a specific partition for installation or set up a dual boot. [👉 Check](https://wiki.libreelec.tv/configuration/dual-boot)
 
 ---
 
