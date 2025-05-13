@@ -2,7 +2,7 @@
 
 # LibreELEC 12.0.2 with Kodi (Omega) v21.2
 
-[Download Here](https://pixeldrain.com/u/pnKSQHWg)
+[Download LIBREELEC.zip](https://pixeldrain.com/u/pnKSQHWg)
 
 # Dual Boot LibreELEC
 
