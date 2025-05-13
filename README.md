@@ -1,5 +1,7 @@
 # LibreELEC 12.0.2 with Kodi (Omega) v21.2
 
+[Download Here](https://pixeldrain.com/u/pnKSQHWg)
+
 # Dual Boot LibreELEC
 
 This guide helps you set up a dual boot system with LibreELEC on your laptop or PC. LibreELEC is ideal for creating a media center with Kodi.
