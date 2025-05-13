@@ -14,11 +14,8 @@ This guide helps you set up a dual boot system with LibreELEC on your laptop or 
 
 ### 1. Partition Preparation
 
-#### If Using **Windows**:
-- Use [MiniTool Partition Wizard](https://www.partitionwizard.com/download.html), because **Windows Disk Management cannot create EXT4 partitions**.
-
-#### If Using **Linux**:
-- Use tools like `GParted` or `KDE Partition Manager`.
+- **Windows:** Use [MiniTool Partition Wizard](https://www.partitionwizard.com/download.html), because **Windows Disk Management cannot create EXT4 partitions**.
+- **Linux:** Use tools like `GParted` or `KDE Partition Manager`.
 
 ### 2. Create Two Partitions:
 
