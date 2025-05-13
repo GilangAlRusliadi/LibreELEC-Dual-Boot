@@ -1,4 +1,4 @@
-![LibreELEC Logo](https://forum.libreelec.tv/core/images/style-3/pageLogo.png)
+[![LibreELEC Logo](https://forum.libreelec.tv/core/images/style-3/pageLogo.png)](https://libreelec.tv/downloads/)
 
 # LibreELEC 12.0.2 with Kodi (Omega) v21.2
 
