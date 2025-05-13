@@ -51,7 +51,7 @@ LibreELEC can be booted using GRUB, but it requires some manual configuration.
 ### **Recommended: Use rEFInd**
 - Easier to configure and user-friendly interface.
 - Official Guide: [rEFInd Installation Guide](https://www.rodsbooks.com/refind/installing.html)
-- For Windows users looking for a quick solution, check this repository:
+- For Windows users looking for a quick installation, check this repository:
   👉 [My rEFInd Repository](https://github.com/GilangAlRusliadi/rEFInd)
 
 ---
