@@ -68,6 +68,26 @@ Explanation:
 - `HDMI-2` is the external display interface (you can check with `xrandr` or `dmesg | grep -i hdmi`)
 - `eDP-1:d` disables the laptop's built-in screen
 
+If you want it to boot immediately without waiting or requiring any input, change it to this:
+
+```bash
+DEFAULT run
+TIMEOUT 0
+PROMPT 0
+
+LABEL installer
+  KERNEL /KERNEL
+  APPEND boot=UUID=XXXX-XXXX installer quiet systemd.debug_shell vga=current
+
+LABEL live
+  KERNEL /KERNEL
+  APPEND boot=UUID=XXXX-XXXX live quiet vga=current
+
+LABEL run
+  KERNEL /KERNEL
+  APPEND boot=UUID=XXXX-XXXX disk=UUID=XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX portable quiet video=HDMI-2:1920x1080@60 video=eDP-1:d
+```
+
 ---
 
 ## Additional Notes
